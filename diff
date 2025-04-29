@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Zohreh Ghaenian - Portfolio</title>
+</head>
+<body>
+  <h1>Hello, I'm Zohreh Ghaenian 👋</h1>
+  <p>Senior Data Analyst | MSc in Data Analytics | Based in Berlin</p>
+  
+  <h2>🔍 My Projects</h2>
+  <ul>
+    <li><a href="https://github.com/ZohrehG/Fraud-Detection-MSc-Project">Fraud Detection Thesis Project</a></li>
+  </ul>
+
+  <h2>📫 Contact Me</h2>
+  <p>Email: zohreh.ghaenian@gmail.com</p>
+  <p>LinkedIn: <a href="https://www.linkedin.com/in/zohrehghaenian">zohrehghaenian</a></p>
+</body>
+</html>
